@@ -16,4 +16,4 @@ Git commands:
 
 Terms:
 * Staging area = is a file, generally contained in your Git directory, that stores information about what will go into your next commit
-* Commit = used to capture the state of a project's currently staged changes
+* Commit = used to capture a snapshot of a project's currently staged changes
