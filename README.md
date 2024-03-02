@@ -9,9 +9,10 @@ Git commands:
 > git status = shows the status of the repository
 > git add . = adds ALL files into staging area
 > git add "filename" = adds a SPECIFIC file int staging area
+> git commit -m "commit message" -m "more description" = captures a snapshot of the current changes in staging area. The "commit message" portion is the title of the commit, while the "more description" option is another -m command which lets you add more description in the commit.
 
 
 
 Terms:
 > Staging area = is a file, generally contained in your Git directory, that stores information about what will go into your next commit
-> Commit = used to capture the state of a project at that point in time into a repository
+> Commit = used to capture the state of a project's currently staged changes
