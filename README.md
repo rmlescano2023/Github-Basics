@@ -12,6 +12,7 @@ Git commands:
 * git commit -m "commit message" -m "more description" = captures a snapshot of the current changes in staging area. The "commit message" portion is the title of the commit, while the "more description" option is another -m command which lets you add more description in the commit.
 * git push = uploads the content of your local repository to a remote repository
 * git log = displays a list (or log) of the committed snapshots
+* git config = displays Git configuration values on a global or local object
 
 
 
