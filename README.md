@@ -13,7 +13,7 @@ Git commands:
 * git push = uploads the content of your local repository to a remote repository
 * git log = displays a list (or log) of the committed snapshots
 * git config = displays Git configuration values on a global or local object
-* 
+* git init = intializes an empty repository
 
 
 
